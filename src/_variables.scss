@@ -24,7 +24,6 @@
 
   --transition-time: .3s;
 
-  // --background-image: url(https://github.com/mwittrien/BetterDiscordAddons/blob/master/Themes/BasicBackground/_res/background.jpg?raw=true);
   --background-image: unset;
   --background-position: center;
   --background-size: cover;
@@ -51,6 +50,8 @@
   /* --== MODALS ==-- */
   --modal-background: var(--background);
   --modal-footer-background: var(--background);
+  --background-floating: var(--background);
+  --bg-surface-overlay: var(--background);
 
   /* --== ACTIVITY CARDS ==-- */
   --activity-card-background: var(--background);

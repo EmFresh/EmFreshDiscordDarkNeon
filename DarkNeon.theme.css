@@ -1,7 +1,7 @@
 /**
  * @name Dark Neon
  * @author Bates
- * @version 2.2.0
+ * @version 3.0.0
  * @source https://gitlab.com/B4T3S/bates-discord-theme
  * @website https://B4T3S.gitlab.io/bates-discord-theme/
  * @donate https://www.paypal.com/paypalme/floriancegledi
@@ -19,10 +19,11 @@
 
 /* CUSTOMIZE COLORS IN HERE! */
 :root,
-.theme-dark, 
-.theme-light {
+
+.visual-refresh,
+.visual-refresh.theme-dark {
   --rgb-highlight: 255, 69, 0; /* The main highlight color */
-  --rgb-background: 25, 25, 25; /* The main background color */
+  --rgb-background: 25, 25, 25; /* The main background color */  
   --rgb-text: 197, 200, 198; /* The main text color */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
   --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */

@@ -19,7 +19,6 @@
 
 /* CUSTOMIZE COLORS IN HERE! */
 :root,
-
 .visual-refresh,
 .visual-refresh.theme-dark {
   --rgb-highlight: 255, 69, 0; /* The main highlight color */
